@@ -1,0 +1,15 @@
+.alignment {
+    text-align: center;
+}
+
+.btnnext {
+    float: right;
+}
+
+.btnprevious {
+    float: left;
+}
+
+.fontchange {
+    font-family: verdana, geneva, sans-serif;
+}
